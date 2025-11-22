@@ -1,6 +1,6 @@
 # Chat Application – WhatsApp-Style Tagging & Dynamic Autocomplete
 
-This project is a c=ChatApplication developed using React and nodejs
+This project is a ChatApplication developed using React and nodejs
 It includes a complete chat application with:
 
 - WhatsApp-style tagging using `@`
