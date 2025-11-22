@@ -47,12 +47,6 @@ http://localhost:3000
 Open your browser and go to:
 http://localhost:3000
 
-Frontend communicates with backend at:
-
-http://localhost:5000/api/tags
-
-http://localhost:5000/api/messages
-
 ### 🧱 Tech Stack
 Frontend:Next.js,React,Redux Toolkit
 Backend : Nodejs ,Express JS
